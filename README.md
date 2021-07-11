@@ -17,34 +17,34 @@ demo_segmentation.py
 Global thresholding:<br/>
 Original (left), segmentation with 2 classes (center), and segmentation with 3 classses (right)<br/>
 <p align="center">
-  <img src="sample_data/cells_global_thresholding_class2_class3.png" width="420" height="320"/>
+  <img src="sample_data/cells_global_thresholding_class2_class3.png" width="520" height="420"/>
 </p>
 
 Spatially adaptive binary thresholding:<br/>
 Original (left), segmentation with 2 classes (right)<br/>
 <p align="center">
-  <img src="sample_data/cells_spatially_adaptive_thresholding.png" width="720" height="620"/>
+  <img src="sample_data/cells_spatially_adaptive_thresholding.png" width="520" height="420"/>
 </p>
 
 Moving average binary thresholding:<br/>
 <p align="center">
-  <img src="sample_data/text_moving_average_thresholding.png" width="720" height="620"/>
+  <img src="sample_data/text_moving_average_thresholding.png" width="520" height="420"/>
 </p>
 
 Region growing segmentation:<br/>
 <p align="center">
-  <img src="sample_data/coins_region_growing_segmentation.png" width="720" height="620"/>
+  <img src="sample_data/coins_region_growing_segmentation.png" width="520" height="420"/>
 </p>
 
 Color segmentation:<br/>
 <p align="center">
-  <img src="sample_data/nebula_color_segmentation.png" width="720" height="620"/>
+  <img src="sample_data/nebula_color_segmentation.png" width="520" height="420"/>
 </p>
 
 
 Kmeans segmentation:<br/>
 <p align="center">
-  <img src="sample_data/brain_kmean_segmentation.png" width="720" height="620"/>
+  <img src="sample_data/brain_kmean_segmentation.png" width="520" height="420"/>
 </p>
 
 
